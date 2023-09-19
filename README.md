@@ -1,4 +1,6 @@
 # who_am_i
+This is the known game Who Am I that i made using Flutter, because my friends doesn't have creativity to pick something lol
+
 Game Who Am I
 Everyone receives a sticky note or note card with the name of something. The name is placed on either the person's forehead or upper back with a piece of masking tape. Players circulate and ask yes or no questions until everyone has identified the name on their own sticky note or card.
 
